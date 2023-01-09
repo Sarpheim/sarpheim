@@ -17,6 +17,8 @@
 <br>
 [<img src="https://img.shields.io/github/followers/Sarpheim">](#)
 <br>
+[<img src="https://img.shields.io/github/forks/Sarpheim">](#)
+<br>
 [<img src="https://img.shields.io/github/stars/Sarpheim">](#)
 
 <br>
