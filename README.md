@@ -19,7 +19,7 @@
 <br>
 [<img src="https://img.shields.io/github/stars/Sarpheim">](#)
 <br>
-[<img src="https://img.shields.io/github/downloads/Sarpheim">](#)
+[<img src="https://img.shields.io/github/languages/count/Sarpheim">](#)
 
 <br>
 
