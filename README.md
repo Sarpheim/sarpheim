@@ -14,7 +14,9 @@
 <br>
 
 [<img src="https://img.shields.io/twitch/status/sarpheim">](#)
+
 <br>
+
 [<img src="https://visitor-badge.laobi.icu/badge?page_id=Sarpheim.sarpheim">](#)
 <br>
 [<img src="https://img.shields.io/github/followers/Sarpheim">](#)
