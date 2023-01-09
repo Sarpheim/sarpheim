@@ -15,6 +15,8 @@
 
 [<img src="https://visitor-badge.laobi.icu/badge?page_id=Sarpheim.sarpheim">](#)
 <br>
+[<img src="https://img.shields.io/github/followers/Sarpheim">](#)
+<br>
 [<img src="https://img.shields.io/github/stars/Sarpheim">](#)
 
 <br>
