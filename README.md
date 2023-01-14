@@ -22,6 +22,10 @@
 
 <br>
 
+<img src="https://lanyard.cnrad.dev/api/391539062823059457">
+
+<br>
+
 ## 🌐 Sosyal Medya Hesapları
 
 [<img height="28" src="https://img.shields.io/badge/Discord Sunucusu-5865F2?style=flat&logo=discord&logoColor=white">](https://discord.sarpheim.xyz)
