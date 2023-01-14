@@ -60,4 +60,8 @@
 
 ## 📊 GitHub İstatistikleri
 
+[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarpheim&theme=github_dark&show_icons=true&layout=compact&locale=tr">](#)
+<br>
+[<img src="https://github-readme-stats.vercel.app/api?username=sarpheim&theme=github_dark&show_icons=true&locale=tr">](#)
+<br>
 [<img src="https://github-readme-streak-stats.herokuapp.com?user=sarpheim&theme=github-dark-blue&locale=tr">](#)
