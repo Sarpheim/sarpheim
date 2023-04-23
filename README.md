@@ -1,7 +1,7 @@
 <img align="right" width="225" src="assets/Sarpheim.png">
 
 # Sarp Koray "Sarpheim" Karakaya
-[<img src="https://readme-typing-svg.herokuapp.com?font=Rubik&weight=500&pause=1000&color=00EAFF&width=500&lines=...">](#)
+[<img src="https://readme-typing-svg.herokuapp.com?font=Rubik&weight=500&pause=1000&color=00EAFF&width=500&lines=...;...">](#)
 
 <br>
 
