@@ -52,6 +52,8 @@
 [<img height="28" src="https://img.shields.io/badge/Steam Group-000000?style=flat&logo=steam&logoColor=white">](https://steamcommunity.com/groups/SarpheimAilesi)
 [<img height="28" src="https://img.shields.io/badge/Steam Gift-000000?style=flat&logo=steam&logoColor=white">](https://steamcommunity.com/tradeoffer/new/?partner=445951132&token=L_itFQjj)
 <br>
+[<img height="28" src="https://img.shields.io/badge/Threads Profile-242526?style=flat&logo=threads&logoColor=white">]([https://www.twitch.tv/Sarpheim](https://www.threads.net/@sarpheim))
+<br>
 [<img height="28" src="https://img.shields.io/badge/Twitch Channel-9146FF?style=flat&logo=twitch&logoColor=white">](https://www.twitch.tv/Sarpheim)
 <br>
 [<img height="28" src="https://img.shields.io/badge/Twitter Profile-1DA1F2?style=flat&logo=twitter&logoColor=white">](https://twitter.com/Sarpheim)
