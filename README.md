@@ -1,7 +1,7 @@
 <img align="right" width="225" src="assets/Sarpheim.png">
 
 # Sarp Koray "Sarpheim" Karakaya
-[<img src="https://readme-typing-svg.herokuapp.com?font=Rubik&weight=500&pause=1000&color=00EAFF&width=500&lines=...">](#)
+[<img src="https://readme-typing-svg.herokuapp.com?font=Rubik&weight=500&pause=1000&color=00EAFF&width=500&lines=...;...">](#)
 
 <br>
 
@@ -26,7 +26,7 @@
 
 <br>
 
-## 🌐 Social
+## 🌐 Social Media Accounts
 
 [<img height="28" src="https://img.shields.io/badge/Website-00EAFF?style=flat&logo=html5&logoColor=white">](https://discord.sarpheim.xyz)
 <br>
