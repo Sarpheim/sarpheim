@@ -42,7 +42,7 @@
 [<img height="28" src="https://img.shields.io/badge/Reddit Profile-FF4500?style=flat&logo=reddit&logoColor=white">](https://www.reddit.com/user/Sarpheim)
 [<img height="28" src="https://img.shields.io/badge/Reddit Community-FF4500?style=flat&logo=reddit&logoColor=white">](https://www.reddit.com/r/SarpheimAilesi/)
 <br>
-[<img height="28" src="https://img.shields.io/badge/Snapchat Profile-FFFC00?style=flat&logo=snapchat">](https://www.snapchat.com/add/sarpheim)
+[<img height="28" src="https://img.shields.io/badge/Snapchat Profile-FFFC00?style=flat&logo=snapchat&logoColor=black">](https://www.snapchat.com/add/sarpheim)
 <br>
 [<img height="28" src="https://img.shields.io/badge/SoundCloud Profile-FF5500?style=flat&logo=soundcloud&logoColor=white">]([https://open.spotify.com/user/sarpkoraykrky](https://soundcloud.com/sarpheim))
 <br>
