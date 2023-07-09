@@ -28,7 +28,7 @@
 
 ## 🌐 Social Media Accounts
 
-[<img height="28" src="https://img.shields.io/badge/Website-00EAFF?style=flat&logo=html5&logoColor=white">](https://discord.sarpheim.xyz)
+[<img height="28" src="https://img.shields.io/badge/Website-00EAFF?style=flat&logo=html5&logoColor=white">](https://www.sarpheim.xyz)
 <br>
 [<img height="28" src="https://img.shields.io/badge/Discord Server-5865F2?style=flat&logo=discord&logoColor=white">](https://discord.sarpheim.xyz)
 <br>
@@ -44,7 +44,7 @@
 <br>
 [<img height="28" src="https://img.shields.io/badge/Snapchat Profile-FFFC00?style=flat&logo=snapchat&logoColor=black">](https://www.snapchat.com/add/sarpheim)
 <br>
-[<img height="28" src="https://img.shields.io/badge/SoundCloud Profile-FF5500?style=flat&logo=soundcloud&logoColor=white">]([https://open.spotify.com/user/sarpkoraykrky](https://soundcloud.com/sarpheim))
+[<img height="28" src="https://img.shields.io/badge/SoundCloud Profile-FF5500?style=flat&logo=soundcloud&logoColor=white">](https://soundcloud.com/sarpheim)
 <br>
 [<img height="28" src="https://img.shields.io/badge/Spotify Profile-1DB954?style=flat&logo=spotify&logoColor=white">](https://open.spotify.com/user/sarpkoraykrky)
 <br>
