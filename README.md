@@ -26,7 +26,7 @@
 
 <br>
 
-## 🌐 Sosyal Medya Hesapları
+## 🌐 Social
 
 [<img height="28" src="https://img.shields.io/badge/Discord Sunucusu-5865F2?style=flat&logo=discord&logoColor=white">](https://discord.sarpheim.xyz)
 <br>
@@ -58,10 +58,10 @@
 
 <br>
 
-## 📊 GitHub İstatistikleri
+## 📊 GitHub Statistics
 
-[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarpheim&theme=github_dark&show_icons=true&layout=compact&locale=tr">](#)
+[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarpheim&theme=github_dark&show_icons=true&layout=compact">](#)
 <br>
-[<img src="https://github-readme-stats.vercel.app/api?username=sarpheim&theme=github_dark&show_icons=true&locale=tr">](#)
+[<img src="https://github-readme-stats.vercel.app/api?username=sarpheim&theme=github_dark&show_icons=true">](#)
 <br>
-[<img src="https://github-readme-streak-stats.herokuapp.com?user=sarpheim&theme=github-dark-blue&locale=tr">](#)
+[<img src="https://github-readme-streak-stats.herokuapp.com?user=sarpheim&theme=github-dark-blue">](#)
