@@ -28,7 +28,7 @@
 
 ## 🌐 Social
 
-[<img height="28" src="https://img.shields.io/badge/Website-00EAFF?style=flat&logo=discord&logoColor=white&label=green&labelColor=black&color=red">](https://discord.sarpheim.xyz)
+[<img height="28" src="https://img.shields.io/badge/Website-00EAFF?style=flat&logo=discord&logoColor=white&label=healthiness&labelColor=black&color=red">](https://discord.sarpheim.xyz)
 <br>
 [<img height="28" src="https://img.shields.io/badge/Discord Sunucusu-5865F2?style=flat&logo=discord&logoColor=white">](https://discord.sarpheim.xyz)
 <br>
