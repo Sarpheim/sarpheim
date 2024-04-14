@@ -30,7 +30,7 @@
 
 [<img height="28" src="https://img.shields.io/badge/Website-222222?style=flat&logo=html5&logoColor=00EAFF">](https://www.sarpheim.xyz)
 <br>
-[<img height="28" src="https://img.shields.io/badge/Discord Server-555555?style=flat&logo=discord&logoColor=5865F2">](https://discord.sarpheim.xyz)
+[<img height="28" src="https://img.shields.io/badge/Discord Server-252525?style=flat&logo=discord&logoColor=5865F2">](https://discord.sarpheim.xyz)
 <br>
 [<img height="28" src="https://img.shields.io/badge/Facebook Profile-222222?style=flat&logo=facebook&logoColor=0865FE">](https://www.facebook.com/Sarpheim)
 [<img height="28" src="https://img.shields.io/badge/Facebook Group-222222?style=flat&logo=facebook&logoColor=0865FE">](https://www.facebook.com/SarpheimAilesi)
