@@ -28,18 +28,18 @@
 
 ## 🌐 Social Media Accounts
 
-[<img height="28" src="https://img.shields.io/badge/Website-222222?style=flat&logo=html5&logoColor=00EAFF">](https://www.sarpheim.xyz)
+[<img height="28" src="https://img.shields.io/badge/Website-252525?style=flat&logo=html5&logoColor=00EAFF">](https://www.sarpheim.xyz)
 <br>
 [<img height="28" src="https://img.shields.io/badge/Discord Server-252525?style=flat&logo=discord&logoColor=5865F2">](https://discord.sarpheim.xyz)
 <br>
-[<img height="28" src="https://img.shields.io/badge/Facebook Profile-222222?style=flat&logo=facebook&logoColor=0865FE">](https://www.facebook.com/Sarpheim)
+[<img height="28" src="https://img.shields.io/badge/Facebook Profile-252525?style=flat&logo=facebook&logoColor=0865FE">](https://www.facebook.com/Sarpheim)
 [<img height="28" src="https://img.shields.io/badge/Facebook Group-222222?style=flat&logo=facebook&logoColor=0865FE">](https://www.facebook.com/SarpheimAilesi)
 <br>
-[<img height="28" src="https://img.shields.io/badge/GitHub Profile-222222?style=flat&logo=github&logoColor=0D1117">](https://github.com/Sarpheim)
+[<img height="28" src="https://img.shields.io/badge/GitHub Profile-252525?style=flat&logo=github&logoColor=0D1117">](https://github.com/Sarpheim)
 <br>
-[<img height="28" src="https://img.shields.io/badge/Instagram Profile-222222?style=flat&logo=instagram&logoColor=DB4E6E">](https://www.instagram.com/Sarpheim)
+[<img height="28" src="https://img.shields.io/badge/Instagram Profile-252525?style=flat&logo=instagram&logoColor=DB4E6E">](https://www.instagram.com/Sarpheim)
 <br>
-[<img height="28" src="https://img.shields.io/badge/Kick Profile-222222?style=flat&logo=kick&logoColor=53FC18">](https://www.kick.com/Sarpheim)
+[<img height="28" src="https://img.shields.io/badge/Kick Profile-252525?style=flat&logo=kick&logoColor=53FC18">](https://www.kick.com/Sarpheim)
 <br>
 [<img height="28" src="https://img.shields.io/badge/Reddit Profile-FF4500?style=flat&logo=reddit&logoColor=white">](https://www.reddit.com/user/Sarpheim)
 [<img height="28" src="https://img.shields.io/badge/Reddit Community-FF4500?style=flat&logo=reddit&logoColor=white">](https://www.reddit.com/r/SarpheimAilesi/)
