@@ -36,6 +36,8 @@
 [<img height="28" src="https://img.shields.io/badge/Facebook Group-151515?style=flat&logo=facebook&logoColor=0865FE">](https://www.facebook.com/SarpheimAilesi)
 <br>
 [<img height="28" src="https://img.shields.io/badge/GitHub Profile-151515?style=flat&logo=github&logoColor=0D1117">](https://github.com/Sarpheim)
+[<img height="28" src="https://img.shields.io/badge/GitHub Profile-222222?style=flat&logo=github&logoColor=0D1117">](https://github.com/Sarpheim)
+[<img height="28" src="https://img.shields.io/badge/GitHub Profile-252525?style=flat&logo=github&logoColor=0D1117">](https://github.com/Sarpheim)
 <br>
 [<img height="28" src="https://img.shields.io/badge/Instagram Profile-252525?style=flat&logo=instagram&logoColor=DB4E6E">](https://www.instagram.com/Sarpheim)
 <br>
