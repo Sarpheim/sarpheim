@@ -67,7 +67,7 @@
 <br>
 [<img height="28" src="https://img.shields.io/badge/X Profile-252525?style=flat&logo=x&logoColor=000000">](https://twitter.com/Sarpheim)
 <br>
-[<img height="28" src="https://img.shields.io/badge/YouTube Channel-252525?style=flat&logo=youtube&logoColor=white">](https://youtube.com/c/Sarpheim?sub_confirmation=1)
+[<img height="28" src="https://img.shields.io/badge/YouTube Channel-252525?style=flat&logo=youtube&logoColor=FF0000">](https://youtube.com/c/Sarpheim?sub_confirmation=1)
 
 <br>
 
