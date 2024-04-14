@@ -33,9 +33,7 @@
 [<img height="28" src="https://img.shields.io/badge/Discord Server-252525?style=flat&logo=discord&logoColor=5865F2">](https://discord.sarpheim.xyz)
 <br>
 [<img height="28" src="https://img.shields.io/badge/Facebook Profile-252525?style=flat&logo=facebook&logoColor=0865FE">](https://www.facebook.com/Sarpheim)
-[<img height="28" src="https://img.shields.io/badge/Facebook Group-151515?style=flat&logo=facebook&logoColor=0865FE">](https://www.facebook.com/SarpheimAilesi)
-<br>
-[<img height="28" src="https://img.shields.io/badge/GitHub Profile-222222?style=flat&logo=github&logoColor=0D1117">](https://github.com/Sarpheim)
+[<img height="28" src="https://img.shields.io/badge/Facebook Group-252525?style=flat&logo=facebook&logoColor=0865FE">](https://www.facebook.com/SarpheimAilesi)
 <br>
 [<img height="28" src="https://img.shields.io/badge/GitHub Profile-252525?style=flat&logo=github&logoColor=0D1117">](https://github.com/Sarpheim)
 <br>
@@ -43,28 +41,33 @@
 <br>
 [<img height="28" src="https://img.shields.io/badge/Kick Profile-252525?style=flat&logo=kick&logoColor=53FC18">](https://www.kick.com/Sarpheim)
 <br>
-[<img height="28" src="https://img.shields.io/badge/Reddit Profile-FF4500?style=flat&logo=reddit&logoColor=white">](https://www.reddit.com/user/Sarpheim)
-[<img height="28" src="https://img.shields.io/badge/Reddit Community-FF4500?style=flat&logo=reddit&logoColor=white">](https://www.reddit.com/r/SarpheimAilesi/)
+[<img height="28" src="https://img.shields.io/badge/Pinterest Profile-252525?style=flat&logo=pinterest&logoColor=E60528">](https://www.pinterest.com/Sarpheim)
 <br>
-[<img height="28" src="https://img.shields.io/badge/Snapchat Profile-FFFC00?style=flat&logo=snapchat&logoColor=black">](https://www.snapchat.com/add/sarpheim)
+[<img height="28" src="https://img.shields.io/badge/Reddit Profile-252525?style=flat&logo=reddit&logoColor=FF4500">](https://www.reddit.com/user/Sarpheim)
+[<img height="28" src="https://img.shields.io/badge/Reddit Community-252525?style=flat&logo=reddit&logoColor=FF4500">](https://www.reddit.com/r/SarpheimAilesi/)
 <br>
-[<img height="28" src="https://img.shields.io/badge/SoundCloud Profile-FF5500?style=flat&logo=soundcloud&logoColor=white">](https://soundcloud.com/sarpheim)
+[<img height="28" src="https://img.shields.io/badge/Snapchat Profile-252525?style=flat&logo=snapchat&logoColor=FFFC00">](https://www.snapchat.com/add/sarpheim)
 <br>
-[<img height="28" src="https://img.shields.io/badge/Spotify Profile-1DB954?style=flat&logo=spotify&logoColor=white">](https://open.spotify.com/user/sarpkoraykrky)
+[<img height="28" src="https://img.shields.io/badge/SoundCloud Profile-252525?style=flat&logo=soundcloud&logoColor=FF5500">](https://soundcloud.com/sarpheim)
 <br>
-[<img height="28" src="https://img.shields.io/badge/Steam Profile-000000?style=flat&logo=steam&logoColor=white">](https://steamcommunity.com/id/Sarpheim)
-[<img height="28" src="https://img.shields.io/badge/Steam Group-000000?style=flat&logo=steam&logoColor=white">](https://steamcommunity.com/groups/SarpheimAilesi)
-[<img height="28" src="https://img.shields.io/badge/Steam Gift-000000?style=flat&logo=steam&logoColor=white">](https://steamcommunity.com/tradeoffer/new/?partner=445951132&token=L_itFQjj)
+[<img height="28" src="https://img.shields.io/badge/Spotify Profile-252525?style=flat&logo=spotify&logoColor=1ED760">](https://open.spotify.com/user/sarpkoraykrky)
 <br>
-[<img height="28" src="https://img.shields.io/badge/Threads Profile-242526?style=flat&logo=threads&logoColor=white">](https://www.threads.net/@sarpheim)
+[<img height="28" src="https://img.shields.io/badge/Steam Profile-252525?style=flat&logo=steam&logoColor=171D25">](https://steamcommunity.com/id/Sarpheim)
+[<img height="28" src="https://img.shields.io/badge/Steam Group-252525?style=flat&logo=steam&logoColor=171D25">](https://steamcommunity.com/groups/SarpheimAilesi)
+[<img height="28" src="https://img.shields.io/badge/Steam Gift-252525?style=flat&logo=steam&logoColor=171D25">](https://steamcommunity.com/tradeoffer/new/?partner=445951132&token=L_itFQjj)
 <br>
-[<img height="28" src="https://img.shields.io/badge/Twitch Channel-9146FF?style=flat&logo=twitch&logoColor=white">](https://www.twitch.tv/Sarpheim)
+[<img height="28" src="https://img.shields.io/badge/Telegram Profile-252525?style=flat&logo=telegram&logoColor=30A3E6">](https://t.me/Sarpheim)
+[<img height="28" src="https://img.shields.io/badge/Telegram Channel-252525?style=flat&logo=telegram&logoColor=30A3E6">](https://t.me/SarpheimAilesi)
 <br>
-[<img height="28" src="https://img.shields.io/badge/Twitter Profile-1DA1F2?style=flat&logo=twitter&logoColor=white">](https://twitter.com/Sarpheim)
+[<img height="28" src="https://img.shields.io/badge/Threads Profile-252525?style=flat&logo=threads&logoColor=000000">](https://www.threads.net/@sarpheim)
 <br>
-[<img height="28" src="https://img.shields.io/badge/VSCO Profile-000000?style=flat&logo=vsco&logoColor=white">](https://vsco.co/sarpheim0/gallery)
+[<img height="28" src="https://img.shields.io/badge/Twitch Channel-252525?style=flat&logo=twitch&logoColor=9146FF">](https://www.twitch.tv/Sarpheim)
 <br>
-[<img height="28" src="https://img.shields.io/badge/YouTube Channel-FF0000?style=flat&logo=youtube&logoColor=white">](https://youtube.com/c/Sarpheim?sub_confirmation=1)
+[<img height="28" src="https://img.shields.io/badge/VSCO Profile-252525?style=flat&logo=vsco&logoColor=000000">](https://vsco.co/sarpheim0/gallery)
+<br>
+[<img height="28" src="https://img.shields.io/badge/X Profile-252525?style=flat&logo=x&logoColor=000000">](https://twitter.com/Sarpheim)
+<br>
+[<img height="28" src="https://img.shields.io/badge/YouTube Channel-252525?style=flat&logo=youtube&logoColor=white">](https://youtube.com/c/Sarpheim?sub_confirmation=1)
 
 <br>
 
