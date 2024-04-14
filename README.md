@@ -32,12 +32,14 @@
 <br>
 [<img height="28" src="https://img.shields.io/badge/Discord Server-5865F2?style=flat&logo=discord&logoColor=white">](https://discord.sarpheim.xyz)
 <br>
-[<img height="28" src="https://img.shields.io/badge/Facebook Profile-1877F2?style=flat&logo=facebook&logoColor=white">](https://www.facebook.com/Sarpheim)
-[<img height="28" src="https://img.shields.io/badge/Facebook Group-1877F2?style=flat&logo=facebook&logoColor=white">](https://www.facebook.com/SarpheimAilesi)
+[<img height="28" src="https://img.shields.io/badge/Facebook Profile-0865FE?style=flat&logo=facebook&logoColor=white">](https://www.facebook.com/Sarpheim)
+[<img height="28" src="https://img.shields.io/badge/Facebook Group-0865FE?style=flat&logo=facebook&logoColor=white">](https://www.facebook.com/SarpheimAilesi)
 <br>
-[<img height="28" src="https://img.shields.io/badge/GitHub Profile-181717?style=flat&logo=github&logoColor=white">](https://github.com/Sarpheim)
+[<img height="28" src="https://img.shields.io/badge/GitHub Profile-0D1117?style=flat&logo=github&logoColor=white">](https://github.com/Sarpheim)
 <br>
-[<img height="28" src="https://img.shields.io/badge/Instagram Profile-E4405F?style=flat&logo=instagram&logoColor=white">](https://www.instagram.com/sarpheim/)
+[<img height="28" src="https://img.shields.io/badge/Instagram Profile-DB4E6E?style=flat&logo=instagram&logoColor=white">](https://www.instagram.com/Sarpheim)
+<br>
+[<img height="28" src="https://img.shields.io/badge/Kick Profile-53FC18?style=flat&logo=kick&logoColor=white">](https://www.kick.com/Sarpheim)
 <br>
 [<img height="28" src="https://img.shields.io/badge/Reddit Profile-FF4500?style=flat&logo=reddit&logoColor=white">](https://www.reddit.com/user/Sarpheim)
 [<img height="28" src="https://img.shields.io/badge/Reddit Community-FF4500?style=flat&logo=reddit&logoColor=white">](https://www.reddit.com/r/SarpheimAilesi/)
