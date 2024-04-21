@@ -70,20 +70,6 @@
 
 <br>
 
-## 💳 Donate
-
-[<img height="28" src="https://img.shields.io/badge/Steam Gift-252525?style=flat&logo=steam&logoColor=171D25">](https://steamcommunity.com/tradeoffer/new/?partner=445951132&token=L_itFQjj)
-<br>
-[<img height="28" src="https://img.shields.io/badge/ByNoGame-252525?style=flat&logo=bynogame&logoColor=171D25">](https://www.bynogame.com/tr/destekle/sarpheim)
-<br>
-[<img height="28" src="https://img.shields.io/badge/GameSatış-252525?style=flat&logo=gamesatis&logoColor=171D25">](https://www.gamesatis.com/donate/sarpheim)
-<br>
-[<img height="28" src="https://img.shields.io/badge/Papara-252525?style=flat&logo=papara&logoColor=171D25">](https://www.papara.com/donate/Sarpheim)
-<br>
-[<img height="28" src="https://img.shields.io/badge/Kripto-252525?style=flat&logo=1upcoin&logoColor=171D25">](https://1upcoin.com/donate/Sarpheim)
-
-<br>
-
 ## 📊 GitHub Statistics
 
 [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarpheim&theme=github_dark&show_icons=true&layout=compact">](#)
