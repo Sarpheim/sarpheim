@@ -54,7 +54,6 @@
 <br>
 [<img height="28" src="https://img.shields.io/badge/Steam Profile-252525?style=flat&logo=steam&logoColor=171D25">](https://steamcommunity.com/id/Sarpheim)
 [<img height="28" src="https://img.shields.io/badge/Steam Group-252525?style=flat&logo=steam&logoColor=171D25">](https://steamcommunity.com/groups/SarpheimAilesi)
-[<img height="28" src="https://img.shields.io/badge/Steam Gift-252525?style=flat&logo=steam&logoColor=171D25">](https://steamcommunity.com/tradeoffer/new/?partner=445951132&token=L_itFQjj)
 <br>
 [<img height="28" src="https://img.shields.io/badge/Telegram Profile-252525?style=flat&logo=telegram&logoColor=30A3E6">](https://t.me/Sarpheim)
 [<img height="28" src="https://img.shields.io/badge/Telegram Channel-252525?style=flat&logo=telegram&logoColor=30A3E6">](https://t.me/SarpheimAilesi)
@@ -68,6 +67,20 @@
 [<img height="28" src="https://img.shields.io/badge/X Profile-252525?style=flat&logo=x&logoColor=000000">](https://twitter.com/Sarpheim)
 <br>
 [<img height="28" src="https://img.shields.io/badge/YouTube Channel-252525?style=flat&logo=youtube&logoColor=FF0000">](https://youtube.com/c/Sarpheim?sub_confirmation=1)
+
+<br>
+
+## 💳 Donate
+
+[<img height="28" src="https://img.shields.io/badge/Steam Gift-252525?style=flat&logo=steam&logoColor=171D25">](https://steamcommunity.com/tradeoffer/new/?partner=445951132&token=L_itFQjj)
+<br>
+[<img height="28" src="https://img.shields.io/badge/ByNoGame-252525?style=flat&logo=bynogame&logoColor=171D25">](https://www.bynogame.com/tr/destekle/sarpheim)
+<br>
+[<img height="28" src="https://img.shields.io/badge/GameSatış-252525?style=flat&logo=gamesatis&logoColor=171D25">](https://www.gamesatis.com/donate/sarpheim)
+<br>
+[<img height="28" src="https://img.shields.io/badge/Papara-252525?style=flat&logo=papara&logoColor=171D25">](https://www.papara.com/donate/Sarpheim)
+<br>
+[<img height="28" src="https://img.shields.io/badge/Kripto-252525?style=flat&logo=1upcoin&logoColor=171D25">](https://1upcoin.com/donate/Sarpheim)
 
 <br>
 
