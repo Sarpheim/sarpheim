@@ -1,5 +1,5 @@
 # Sarp Koray "Sarpheim" Karakaya
-[<img src="https://readme-typing-svg.herokuapp.com?font=Rubik&weight=500&pause=1000&color=00EAFF&width=500&lines=Former+Streamer;Part+Time+Developer;Former+National+Alpine+Skier;TED+Ankara+College+Foundation+Private+High+School+'25;METU+Civil+Engineering+'29">](#)
+[<img src="https://readme-typing-svg.herokuapp.com?font=Rubik&weight=500&pause=1000&color=00EAFF&width=500&lines=Former+Streamer;Part+Time+Developer;Former+National+Alpine+Skier;TED+Ankara+College+Foundation+Private+High+School+'25">](#)
 
 <img align="right" width="225" src="assets/Sarpheim.png">
 
