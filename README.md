@@ -1,5 +1,5 @@
 # Sarp Koray "Sarpheim" Karakaya
-[<img src="https://readme-typing-svg.herokuapp.com?font=Rubik&weight=500&pause=1000&color=00EAFF&width=500&lines=Former+Streamer;Part+Time+Developer;Former+National+Alpine+Skier;TED+Ankara+College+Foundation+Private+High+School+'25">](#)
+[<img src="https://readme-typing-svg.herokuapp.com?font=Rubik&weight=500&pause=1000&color=00EEFF&width=500&lines=Former+Streamer;Part+Time+Developer;Former+National+Alpine+Skier;TED+Ankara+College+Foundation+Private+High+School+'25">](#)
 
 <img align="right" width="225" src="assets/Sarpheim.png">
 
@@ -28,7 +28,7 @@
 
 ## 🌐 Social Media Accounts
 
-[<img height="28" src="https://img.shields.io/badge/Website-252525?style=flat&logo=html5&logoColor=00EAFF">](https://www.sarpheim.xyz)
+[<img height="28" src="https://img.shields.io/badge/Website-252525?style=flat&logo=html5&logoColor=00EEFF">](https://www.sarpheim.xyz)
 <br>
 [<img height="28" src="https://img.shields.io/badge/Discord Server-252525?style=flat&logo=discord&logoColor=5865F2">](https://discord.sarpheim.xyz)
 <br>
