@@ -5,11 +5,11 @@
 
 <br>
 
-<code>[sarpheim.xyz](https://www.sarpheim.xyz)</code>
+<code>[sarpheim.com](https://www.sarpheim.com)</code>
 <br>
-<code>[social.sarpheim.xyz](https://social.sarpheim.xyz)</code>
+<code>[social.sarpheim.com](https://social.sarpheim.com)</code>
 <br>
-<code>[iletisim@sarpheim.xyz](mailto:iletisim@sarpheim.xyz)</code>
+<code>[iletisim@sarpheim.com](mailto:iletisim@sarpheim.com)</code>
 
 <br>
 
@@ -28,9 +28,9 @@
 
 ## 🌐 Social Media Accounts
 
-[<img height="28" src="https://img.shields.io/badge/Website-252525?style=flat&logo=html5&logoColor=00EEFF">](https://www.sarpheim.xyz)
+[<img height="28" src="https://img.shields.io/badge/Website-252525?style=flat&logo=html5&logoColor=00EEFF">](https://www.sarpheim.com)
 <br>
-[<img height="28" src="https://img.shields.io/badge/Discord Server-252525?style=flat&logo=discord&logoColor=5865F2">](https://discord.sarpheim.xyz)
+[<img height="28" src="https://img.shields.io/badge/Discord Server-252525?style=flat&logo=discord&logoColor=5865F2">](https://discord.sarpheim.com)
 <br>
 [<img height="28" src="https://img.shields.io/badge/Facebook Profile-252525?style=flat&logo=facebook&logoColor=0865FE">](https://www.facebook.com/Sarpheim)
 [<img height="28" src="https://img.shields.io/badge/Facebook Group-252525?style=flat&logo=facebook&logoColor=0865FE">](https://www.facebook.com/SarpheimAilesi)
