@@ -46,8 +46,6 @@
 [<img height="28" src="https://img.shields.io/badge/Reddit Profile-252525?style=flat&logo=reddit&logoColor=FF4500">](https://www.reddit.com/user/Sarpheim)
 [<img height="28" src="https://img.shields.io/badge/Reddit Community-252525?style=flat&logo=reddit&logoColor=FF4500">](https://www.reddit.com/r/SarpheimAilesi/)
 <br>
-[<img height="28" src="https://img.shields.io/badge/Snapchat Profile-252525?style=flat&logo=snapchat&logoColor=FFFC00">](https://www.snapchat.com/add/sarpheim)
-<br>
 [<img height="28" src="https://img.shields.io/badge/SoundCloud Profile-252525?style=flat&logo=soundcloud&logoColor=FF5500">](https://soundcloud.com/sarpheim)
 <br>
 [<img height="28" src="https://img.shields.io/badge/Spotify Profile-252525?style=flat&logo=spotify&logoColor=1ED760">](https://open.spotify.com/user/sarpkoraykrky)
@@ -60,9 +58,9 @@
 <br>
 [<img height="28" src="https://img.shields.io/badge/Threads Profile-252525?style=flat&logo=threads&logoColor=000000">](https://www.threads.net/@sarpheim)
 <br>
-[<img height="28" src="https://img.shields.io/badge/Twitch Channel-252525?style=flat&logo=twitch&logoColor=9146FF">](https://www.twitch.tv/Sarpheim)
+[<img height="28" src="https://img.shields.io/badge/TikTok Profile-252525?style=flat&logo=threads&logoColor=000000">](https://www.tiktok.com/@sarpheim)
 <br>
-[<img height="28" src="https://img.shields.io/badge/VSCO Profile-252525?style=flat&logo=vsco&logoColor=000000">](https://vsco.co/sarpheim0/gallery)
+[<img height="28" src="https://img.shields.io/badge/Twitch Channel-252525?style=flat&logo=twitch&logoColor=9146FF">](https://www.twitch.tv/Sarpheim)
 <br>
 [<img height="28" src="https://img.shields.io/badge/X Profile-252525?style=flat&logo=x&logoColor=000000">](https://twitter.com/Sarpheim)
 <br>
