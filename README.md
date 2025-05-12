@@ -58,7 +58,7 @@
 <br>
 [<img height="28" src="https://img.shields.io/badge/Threads Profile-252525?style=flat&logo=threads&logoColor=000000">](https://www.threads.net/@sarpheim)
 <br>
-[<img height="28" src="https://img.shields.io/badge/TikTok Profile-252525?style=flat&logo=threads&logoColor=000000">](https://www.tiktok.com/@sarpheim)
+[<img height="28" src="https://img.shields.io/badge/TikTok Profile-252525?style=flat&logo=tiktok&logoColor=000000">](https://www.tiktok.com/@sarpheim)
 <br>
 [<img height="28" src="https://img.shields.io/badge/Twitch Channel-252525?style=flat&logo=twitch&logoColor=9146FF">](https://www.twitch.tv/Sarpheim)
 <br>
