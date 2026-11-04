@@ -9,7 +9,7 @@
 <br>
 <code>[social.sarpheim.com](https://social.sarpheim.com)</code>
 <br>
-<code>[iletisim@sarpheim.com](mailto:sarpkoraykrky@gmail.com)</code>
+<code>[sarpkoraykrky@gmail.com](mailto:sarpkoraykrky@gmail.com)</code>
 
 <br>
 
