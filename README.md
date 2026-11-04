@@ -123,6 +123,11 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Sarpheim&theme=dark&no-frame=true&no-bg=false&margin-w=4)
 
+
+## 💰 You can help me by Donating
+[![social.sarpheim.com#donate](https://img.shields.io/badge/social.sarpheim.com-111111?logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMDBFRUZGIiBzdHJva2Utd2lkdGg9IjIiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8%2BPGVsbGlwc2UgY3g9IjEyIiBjeT0iMTIiIHJ4PSI0IiByeT0iMTAiLz48cGF0aCBkPSJNMiAxMmgyMCIvPjwvc3ZnPg==)](https://sarpheim.com)
+
+
 ---
 [<img src="https://img.shields.io/twitch/status/sarpheim">](#)
 <br>
@@ -131,8 +136,3 @@
 [<img src="https://img.shields.io/github/stars/Sarpheim">](#)
 [<img src="https://img.shields.io/github/sponsors/Sarpheim">](#)
 [![](https://komarev.com/ghpvc/?username=Sarpheim&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-## 💰 You can help me by Donating
-[![social.sarpheim.com#donate](https://img.shields.io/badge/social.sarpheim.com-111111?logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMDBFRUZGIiBzdHJva2Utd2lkdGg9IjIiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8%2BPGVsbGlwc2UgY3g9IjEyIiBjeT0iMTIiIHJ4PSI0IiByeT0iMTAiLz48cGF0aCBkPSJNMiAxMmgyMCIvPjwvc3ZnPg==)](https://sarpheim.com)
-[![social.sarpheim.com#donate](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://social.sarpheim.com#destek) 
