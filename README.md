@@ -1,6 +1,8 @@
 ## 💫 About Me
 🧑‍💻 Developer
 <br>
+🏎️ Car Enthusiast
+<br>
 📹 Former Streamer
 <br>
 🎿 Former National Alpine Skier
